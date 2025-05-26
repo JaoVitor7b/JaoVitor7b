@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 💬 Ask me about HTML, CSS, and Java basics.
 
-📫 How to reach me: www.linkedin.com/in/joão-vitor-rosa-028506308
+📫 How to reach me:  www.linkedin.com/in/joão-vitor-rosa-028506308
 
 😄 Pronouns: [he/him]
 
