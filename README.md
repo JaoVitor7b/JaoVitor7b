@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**JaoVitor7b/JaoVitor7b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 🔭 I’m currently working on Java projects and front-end development using HTML and CSS.
@@ -20,4 +17,3 @@ Here are some ideas to get you started:
 😄 Pronouns: [he/him]
 
 🎮🎨 Fun fact: I love diving into coding challenges — whether it's debugging for hours or crafting game mechanics and visuals, I completely lose track of time!
--->
