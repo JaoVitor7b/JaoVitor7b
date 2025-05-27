@@ -6,7 +6,8 @@ Here are some ideas to get you started:
 
 
 
-🌱 I’m currently learning JavaScript and how to build responsive web interfaces.
+🌱 I’m currently learning JavaScript and how to build responsive web interfaces.  ![js](https://github.com/user-attachments/assets/c3b7cab0-e811-4b39-a6b9-3a5a03d57ec0)
+
 
 👯 I’m looking to collaborate on web development projects or open-source Java applications.
 
