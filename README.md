@@ -2,7 +2,8 @@
 
 Here are some ideas to get you started:
 
-🔭 I’m currently working on Java projects and front-end development using HTML and CSS. ![image](https://github.com/user-attachments/assets/9285aacc-17f3-4292-b8d9-fb8dda57c753)
+🔭 I’m currently working on Java projects and front-end development using HTML and CSS. ![css-3 (1)](https://github.com/user-attachments/assets/e47198ad-edd2-44c3-a2d2-6afdd31e78c6)
+
 
 
 🌱 I’m currently learning JavaScript and how to build responsive web interfaces.
