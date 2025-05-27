@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-🔭 I’m currently working on Java projects and front-end development using HTML and CSS. ![css-3 (1)](https://github.com/user-attachments/assets/e47198ad-edd2-44c3-a2d2-6afdd31e78c6)
+🔭 I’m currently working on Java projects and front-end development using HTML and CSS.  ![css-3 (2)](https://github.com/user-attachments/assets/38799e5f-95fa-46b9-af10-017337b8850b)
 
 
 
