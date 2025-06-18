@@ -43,9 +43,9 @@
 
 ## 📬 Contato
 
-- 📧 Email: **joaovitor7b@gmail.com**  
+- 📧 Email: **vitorrosa6969@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-vitor-rosa-028506308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- 🌐 [Portfólio](https://jaovitor7b.github.io/mobile/sobre.html)
+- 🌐 [Portfólio](https://jaovitor7b.github.io/mobile/index.html)
 
 ---
 
