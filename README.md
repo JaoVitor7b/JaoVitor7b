@@ -1,21 +1,58 @@
-## Hi there 👋
+<h1 align="center">Olá! Eu sou o João Vitor 👋</h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JoaoVitorDev&label=Profile%20views&color=0e75b6&style=flat" alt="JoaoVitorDev" />
+</p>
 
-🔭 I’m currently working on Java projects and front-end development using HTML and CSS.  ![css-3 (2)](https://github.com/user-attachments/assets/38799e5f-95fa-46b9-af10-017337b8850b)
+---
 
+## 🧑‍💻 Sobre mim
 
+- 🎓 Estudante de **Desenvolvimento de Software Multiplataforma** na Fatec Registro  
+- 🔭 Atualmente trabalhando em projetos de **web responsiva**, **sistemas com IA** e **integração de dados**
+- 🌱 Estudando **Node.js**, **TypeScript**, **TailwindCSS** e **Python**
+- 💡 Curioso sobre **IoT**, **automação rural**, e **tecnologia aplicada à medicina veterinária**
 
-🌱 I’m currently learning JavaScript and how to build responsive web interfaces.  ![js](https://github.com/user-attachments/assets/c3b7cab0-e811-4b39-a6b9-3a5a03d57ec0)
+---
 
+## 🚀 Tecnologias & Ferramentas
 
-👯 I’m looking to collaborate on web development projects or open-source Java applications.
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-🤔 I’m looking for help with connecting front-end designs with back-end logic.
+---
 
-💬 Ask me about HTML, CSS, and Java basics.
+## 📊 Estatísticas do GitHub
 
-📫 How to reach me:  www.linkedin.com/in/joão-vitor-rosa-028506308
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVitorDev&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorDev&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
 
-😄 Pronouns: [he/him]
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JoaoVitorDev&theme=tokyonight&hide_border=true&border_radius=10" />
+</p>
 
-🎮🎨 Fun fact: I love diving into coding challenges — whether it's debugging for hours or crafting game mechanics and visuals, I completely lose track of time!
+---
+
+## 📁 Repositórios em Destaque
+
+- 🔷 [Projeto AgroTech IoT](https://github.com/JoaoVitorDev/projeto-agrotech-iot) — Automação para controle de irrigação rural  
+- 🔷 [AnimeFeed Instagram](https://github.com/JoaoVitorDev/animefeed) — Sistema de postagens automáticas para perfis otakus  
+- 🔷 [Página Web LIA](https://github.com/JoaoVitorDev/lia-landing-page) — Landing page interativa com dark mode e animações
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+
+---
+
+⭐ Obrigado por visitar meu perfil! Considere deixar uma estrela nos repositórios que você curtir 😊
