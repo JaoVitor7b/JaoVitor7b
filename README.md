@@ -1,58 +1,52 @@
-<h1 align="center">Olá! Eu sou o João Vitor 👋</h1>
+# 👋 Olá! Eu sou o João Vitor
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JoaoVitorDev&label=Profile%20views&color=0e75b6&style=flat" alt="JoaoVitorDev" />
-</p>
-
----
-
-## 🧑‍💻 Sobre mim
-
-- 🎓 Estudante de **Desenvolvimento de Software Multiplataforma** na Fatec Registro  
-- 🔭 Atualmente trabalhando em projetos de **web responsiva**, **sistemas com IA** e **integração de dados**
-- 🌱 Estudando **Node.js**, **TypeScript**, **TailwindCSS** e **Python**
-- 💡 Curioso sobre **IoT**, **automação rural**, e **tecnologia aplicada à medicina veterinária**
+🎓 Estudante de **Desenvolvimento de Software Multiplataforma** na **FATEC Registro**  
+🧪 Interesse por tecnologias web, projetos interativos, infraestrutura e inteligência artificial  
+🌱 Atualmente estudando **JavaScript**, **React**, **Node.js** e práticas de **DevOps**  
+🐍 Também curto programar em **Python** e **C** para projetos mais técnicos
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+## 🔧 Tecnologias e Ferramentas
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVitorDev&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorDev&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=JoaoVitorDev&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JaoVitor7b&show_icons=true&theme=radical" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaoVitor7b&layout=compact&theme=radical"/>
 </p>
 
 ---
 
-## 📁 Repositórios em Destaque
+## 🚀 Projetos em Destaque
 
-- 🔷 [Projeto AgroTech IoT](https://github.com/JoaoVitorDev/projeto-agrotech-iot) — Automação para controle de irrigação rural  
-- 🔷 [AnimeFeed Instagram](https://github.com/JoaoVitorDev/animefeed) — Sistema de postagens automáticas para perfis otakus  
-- 🔷 [Página Web LIA](https://github.com/JoaoVitorDev/lia-landing-page) — Landing page interativa com dark mode e animações
+- 🎨 **[Landing Pages e UI Design](https://github.com/JaoVitor7b/landing-page-css)**  
+  Desenvolvimento de páginas web modernas com HTML, CSS e interações JS
+  
+- 🧠 **[Projetos Acadêmicos](https://github.com/JaoVitor7b?tab=repositories)**  
+  Repositórios de atividades, sistemas, algoritmos e práticas desenvolvidas na FATEC
 
----
-
-## 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/joão-vitor-rosa-028506308)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+- 🧰 **[Scripts e Utilitários](https://github.com/JaoVitor7b/robocopy-bat)**  
+  Automação com `.bat`, comandos de rede, e exemplos com robocopy
 
 ---
 
-⭐ Obrigado por visitar meu perfil! Considere deixar uma estrela nos repositórios que você curtir 😊
+## 📬 Contato
+
+- 📧 Email: **joaovitor7b@gmail.com**  
+- 💼 [LinkedIn (opcional)](https://www.linkedin.com/in/seu-perfil)  
+- 🌐 [Portfólio (se tiver)](https://seu-portfolio.com)
+
+---
+
+⭐ Obrigado por visitar meu perfil! Se gostou de algum projeto, não esqueça de deixar uma estrela ⭐
