@@ -7,7 +7,7 @@
 
 ---
 
-# 👋 Resumo! Minhas habilidades
+# 🛠️ Resumo! Minhas habilidades
 
 Sou desenvolvedor fullstack web com formação técnica em Desenvolvimento de Sistemas e atualmente curso Desenvolvimento de Software Multiplataforma na FATEC Registro. Tenho foco em projetos voltados à web moderna, explorando tanto o frontend quanto o backend com tecnologias atuais e práticas de desenvolvimento ágil.
 
