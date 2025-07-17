@@ -1,7 +1,7 @@
 <!-- README com personagem cyberpunk em pixel art -->
 
 <div align="center">
-  <img src="https://media.tenor.com/t23gPPRJKTMAAAAC/kirby-on-a-warp-star.gif" width="200px" alt="Kirby Pixel Warp" />
+  <img src="https://media.tenor.com/Mx7NYmMM2wIAAAAi/blastoise-pokemon-pokemon.gif" width="200px" alt="Kirby Pixel Warp" />
   <h1 style="color:#ff00ff;">⚡ BYTE, O BOT DEV – PROTOCOLO CYBERPUNK.INIT()</h1>
   <p><strong>IA Ativada:</strong> Interface neural conectada.<br>Decodificando perfil do Operador <strong>João Vitor</strong>...</p>
 </div>
