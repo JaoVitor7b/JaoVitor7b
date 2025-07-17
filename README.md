@@ -70,9 +70,12 @@
 
 ## 📬 Transmissão Direta
 
+
 [![Email](https://img.shields.io/badge/Email-vitorrosa6969@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:vitorrosa6969@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-João%20Vitor%20Rosa-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-rosa-028506308)  
 🌐 [Portfólio](https://jaovitor7b.github.io/mobile/index.html)
+
+
 ---
 
 <div align="center">
