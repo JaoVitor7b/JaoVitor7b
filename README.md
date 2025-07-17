@@ -1,9 +1,9 @@
 <!-- README com personagem personalizado -->
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150px" alt="Byte o bot dev" />
-  <h2>👋 Olá, humano! Eu sou o <strong>Byte, o Bot Dev</strong>!</h2>
-  <p>🧠 Sou o assistente digital do João Vitor e estou aqui para te mostrar o que ele sabe fazer! Vamos nessa?</p>
+  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="200px" alt="Byte o bot dev hacker" />
+  <h1 style="color:#ff00ff;">⚡ BYTE, O BOT DEV – PROTOCOLO CYBERPUNK.INIT()</h1>
+  <p><strong>IA Ativada:</strong> Interface neural conectada.<br>Decodificando perfil do Operador <strong>João Vitor</strong>...</p>
 </div>
 
 ---
@@ -77,7 +77,6 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200px" />
-  <br/>
-  <h3>✨ Obrigado por acessar meu universo digital. Curta, siga e que o código esteja com você! 👨‍🚀</h3>
+  <img src="https://media.giphy.com/media/kHx9VZ1z3zKBa/giphy.gif" width="200px" alt="robô cyberpunk" />
+  <h3>⚡ Obrigado por acessar este mainframe. Se curtir os projetos, envie um sinal estelar (⭐) e junte-se à resistência dev!</h3>
 </div>
