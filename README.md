@@ -1,43 +1,44 @@
-<!-- README Cyberpunk com mascote Byte -->
+<!-- README com personagem personalizado -->
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180px" alt="Byte o bot dev cyberpunk" />
-  <h1 style="color:#ff00ff;">👾 BYTE, O BOT DEV - MODO CYBERPUNK ATIVADO</h1>
-  <p style="font-style: italic;">⚡ Interface neural conectada. Explorando o código de <strong>João Vitor</strong>...</p>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150px" alt="Byte o bot dev" />
+  <h2>👋 Olá, humano! Eu sou o <strong>Byte, o Bot Dev</strong>!</h2>
+  <p>🧠 Sou o assistente digital do João Vitor e estou aqui para te mostrar o que ele sabe fazer! Vamos nessa?</p>
 </div>
 
 ---
 
-# 👨‍💻 Desenvolvedor: João Vitor
+# 🧑‍💻 Quem é o João Vitor?
 
-🧠 Estudante de **Desenvolvimento de Software Multiplataforma**  
-🌌 Apaixonado por **inteligência artificial**, **web moderna** e **infraestrutura**  
-🛰️ Explorador fullstack: de componentes frontend a APIs robustas  
-⚙️ Em constante evolução com **JavaScript**, **React**, **Node.js** e **DevOps**  
-🐍 Amante de desafios técnicos com **Python** e **C**
-
----
-
-## 🧬 Stack Neural
-
-### 🖥️ Frontend
-- HTML5 + CSS3 + JavaScript
-- React (Componentização + SPA)
-- Acessibilidade & responsividade first
-
-### 💻 Backend
-- Node.js, PHP
-- APIs REST, Express, MySQL
-
-### ⚙️ Extras Hackeáveis
-- Scripts com Python & C
-- Automação com `.BAT`, `robocopy`
-- Versionamento com Git/GitHub
-- Práticas DevOps: CI/CD + Infra como Código (IaC)
+🎓 Estudante de **Desenvolvimento de Software Multiplataforma** na **FATEC Registro**  
+💡 Apaixonado por tecnologia, inovação, projetos interativos e inteligência artificial  
+🚀 Navegando no mundo **Fullstack**, entre telas modernas e servidores inteligentes  
+🌱 Explorando **JavaScript**, **React**, **Node.js** e o universo de **DevOps**  
+🐍 Também domina **Python** e **C** para tarefas técnicas e algoritmos brabos  
 
 ---
 
-## ⚙️ Ferramentas do Terminal
+## 🔍 Missão: Apresentar as Skills do Dev
+
+### 🖥️ Frontend:
+- HTML, CSS e JavaScript na veia!
+- Interfaces criadas com **React**
+- Sempre com foco em **responsividade** e **acessibilidade**
+
+### 🔧 Backend:
+- Lógica afiada com **Node.js** e **PHP**
+- APIs, integrações e regras de negócio robustas
+- Banco de dados: **MySQL** é o fiel escudeiro
+
+### ⚙️ Extras que brilham:
+- Scripts técnicos com **Python** e **C**
+- Automatizações em **.BAT** com **robocopy**
+- Git e GitHub no dia a dia
+- DevOps: CI/CD e infraestrutura como código em aprendizado constante
+
+---
+
+## 🧰 Ferramentas do Inventário do Dev
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,python,c,vscode,git,bash" />
@@ -45,7 +46,7 @@
 
 ---
 
-## 📡 Telemetria GitHub
+## 📈 Monitoramento em Tempo Real
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JaoVitor7b&show_icons=true&theme=radical" />
