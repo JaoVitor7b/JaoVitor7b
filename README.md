@@ -1,7 +1,7 @@
 <!-- README com personagem personalizado -->
 
 <div align="center">
-  <img src="[(https://media.tenor.com/t23gPPRJKTMAAAAm/kirby-on-a-warp-star.webp)](https://media.tenor.com/t23gPPRJKTMAAAAi/kirby-on-a-warp-star.gif)" width="200px" alt="Byte o bot dev hacker" />
+  <img src="[(https://media.tenor.com/t23gPPRJKTMAAAAm/kirby-on-a-warp-star.webp)](https://media.tenor.com/t23gPPRJKTMAAAAi/kirby-on-a-warp-star.gif)]" width="200px" alt="Byte o bot dev hacker" />
   <h1 style="color:#ff00ff;">⚡ BYTE, O BOT DEV – PROTOCOLO CYBERPUNK.INIT()</h1>
   <p><strong>IA Ativada:</strong> Interface neural conectada.<br>Decodificando perfil do Operador <strong>João Vitor</strong>...</p>
 </div>
