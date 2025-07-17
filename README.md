@@ -1,44 +1,44 @@
-<!-- README com personagem personalizado -->
+<!-- README estilo Pixel Art com Byte o Bot Dev -->
 
 <div align="center">
-  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="200px" alt="Byte o bot dev hacker" />
-  <h1 style="color:#ff00ff;">⚡ BYTE, O BOT DEV – PROTOCOLO CYBERPUNK.INIT()</h1>
-  <p><strong>IA Ativada:</strong> Interface neural conectada.<br>Decodificando perfil do Operador <strong>João Vitor</strong>...</p>
+  <img src="https://i.imgur.com/FaY9ywl.gif" width="140px" alt="Byte Pixel Bot" />
+  <h1>🎮 BYTE, O BOT DEV — SISTEMA INICIADO</h1>
+  <p><em>👾 Acesso concedido ao repositório do Operador <strong>João Vitor</strong>. Explorando habilidades...</em></p>
 </div>
 
 ---
 
-# 🧑‍💻 Quem é o João Vitor?
+# 🧑‍💻 João Vitor — Desenvolvedor Fullstack em 8-Bits
 
 🎓 Estudante de **Desenvolvimento de Software Multiplataforma** na **FATEC Registro**  
-💡 Apaixonado por tecnologia, inovação, projetos interativos e inteligência artificial  
-🚀 Navegando no mundo **Fullstack**, entre telas modernas e servidores inteligentes  
-🌱 Explorando **JavaScript**, **React**, **Node.js** e o universo de **DevOps**  
-🐍 Também domina **Python** e **C** para tarefas técnicas e algoritmos brabos  
+🕹️ Apaixonado por **tecnologias web**, **projetos interativos** e **inteligência artificial**  
+🛠️ Fullstack entre interfaces modernas e lógicas de backend afiadas  
+🧪 Explorando stacks como **JavaScript**, **React**, **Node.js**, **MySQL**  
+💾 Paralelamente programa com **Python** e **C**, e cria utilitários em `.bat`
 
 ---
 
-## 🔍 Missão: Apresentar as Skills do Dev
+## 🎨 Skills no Inventário
 
-### 🖥️ Frontend:
-- HTML, CSS e JavaScript na veia!
-- Interfaces criadas com **React**
-- Sempre com foco em **responsividade** e **acessibilidade**
+### 🎮 Frontend:
+- HTML5 + CSS3 + JavaScript
+- Framework SPA com **React**
+- Interfaces responsivas e acessíveis
 
-### 🔧 Backend:
-- Lógica afiada com **Node.js** e **PHP**
-- APIs, integrações e regras de negócio robustas
-- Banco de dados: **MySQL** é o fiel escudeiro
+### 💻 Backend:
+- Node.js + Express e PHP
+- Banco de dados com **MySQL**
+- Criação de APIs RESTful
 
-### ⚙️ Extras que brilham:
-- Scripts técnicos com **Python** e **C**
-- Automatizações em **.BAT** com **robocopy**
-- Git e GitHub no dia a dia
-- DevOps: CI/CD e infraestrutura como código em aprendizado constante
+### 🧰 Outros Poderes:
+- Scripts em **Python**, **C** e **.BAT**
+- Automação com `robocopy`
+- Versionamento com **Git & GitHub**
+- Aprendizado contínuo em **DevOps**, CI/CD e IaC
 
 ---
 
-## 🧰 Ferramentas do Inventário do Dev
+## 🧰 Ferramentas do Devkit
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,python,c,vscode,git,bash" />
@@ -46,29 +46,29 @@
 
 ---
 
-## 📈 Monitoramento em Tempo Real
+## 📟 Monitoramento GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JaoVitor7b&show_icons=true&theme=radical" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaoVitor7b&layout=compact&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JaoVitor7b&show_icons=true&theme=gruvbox" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaoVitor7b&layout=compact&theme=gruvbox"/>
 </p>
 
 ---
 
-## 🚀 Protocolos Lançados (Projetos)
+## 🕹️ Fases Completadas (Projetos)
 
-- 🎨 [**Landing Pages e UI Design**](https://github.com/JaoVitor7b/landing-page-css)  
-  Interfaces interativas com animações, HTML e JS
+- 🧠 [**Landing Pages e UI Design**](https://github.com/JaoVitor7b/landing-page-css)  
+  Interfaces modernas com HTML, CSS e interações JS
 
-- 📚 [**Projetos Acadêmicos**](https://github.com/JaoVitor7b?tab=repositories)  
-  Algoritmos, CRUDs e práticas da FATEC
+- 📘 [**Projetos Acadêmicos**](https://github.com/JaoVitor7b?tab=repositories)  
+  Repositórios com algoritmos, CRUDs e atividades de curso
 
-- ⚙️ [**Scripts e Utilitários**](https://github.com/JaoVitor7b/robocopy-bat)  
-  Automação hacker com `.bat`, `robocopy` e comandos de sistema
+- 🧰 [**Scripts e Utilitários**](https://github.com/JaoVitor7b/robocopy-bat)  
+  Automatização com `.bat`, robocopy e comandos do sistema
 
 ---
 
-## 📬 Transmissão Criptografada
+## 📬 Comunicação Serial Ativa
 
 [![Email](https://img.shields.io/badge/Email-vitorrosa6969@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitorrosa6969@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-João%20Vitor%20Rosa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-rosa-028506308)  
@@ -77,6 +77,6 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/kHx9VZ1z3zKBa/giphy.gif" width="200px" alt="robô cyberpunk" />
-  <h3>⚡ Obrigado por acessar este mainframe. Se curtir os projetos, envie um sinal estelar (⭐) e junte-se à resistência dev!</h3>
+  <img src="https://i.imgur.com/xT0j42J.gif" width="200px" alt="Pixel robot goodbye" />
+  <h3>👾 Obrigado por visitar! Deixe uma estrela ⭐ nos projetos e volte sempre ao meu universo em 8-bits.</h3>
 </div>
