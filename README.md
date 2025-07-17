@@ -1,33 +1,52 @@
-# 👋 Olá! Eu sou o João Vitor
+<!-- README com personagem personalizado -->
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150px" alt="Byte o bot dev" />
+  <h2>👋 Olá, humano! Eu sou o <strong>Byte, o Bot Dev</strong>!</h2>
+  <p>🧠 Sou o assistente digital do João Vitor e estou aqui para te mostrar o que ele sabe fazer! Vamos nessa?</p>
+</div>
+
+---
+
+# 🧑‍💻 Quem é o João Vitor?
 
 🎓 Estudante de **Desenvolvimento de Software Multiplataforma** na **FATEC Registro**  
-🧪 Interesse por tecnologias web, projetos interativos, infraestrutura e inteligência artificial  
-🌱 Atualmente estudando **JavaScript**, **React**, **Node.js** e práticas de **DevOps**  
-🐍 Também curto programar em **Python** e **C** para projetos mais técnicos
+💡 Apaixonado por tecnologia, inovação, projetos interativos e inteligência artificial  
+🚀 Navegando no mundo **Fullstack**, entre telas modernas e servidores inteligentes  
+🌱 Explorando **JavaScript**, **React**, **Node.js** e o universo de **DevOps**  
+🐍 Também domina **Python** e **C** para tarefas técnicas e algoritmos brabos  
 
 ---
 
-# 🛠️ Resumo! Minhas habilidades
+## 🔍 Missão: Apresentar as Skills do Dev
 
-Sou desenvolvedor fullstack web com formação técnica em Desenvolvimento de Sistemas e atualmente curso Desenvolvimento de Software Multiplataforma na FATEC Registro. Tenho foco em projetos voltados à web moderna, explorando tanto o frontend quanto o backend com tecnologias atuais e práticas de desenvolvimento ágil.
+### 🖥️ Frontend:
+- HTML, CSS e JavaScript na veia!
+- Interfaces criadas com **React**
+- Sempre com foco em **responsividade** e **acessibilidade**
 
-No frontend, trabalho com **HTML**, **CSS** e **JavaScript**, aplicando boas práticas de responsividade e acessibilidade. Utilizo React para construção de interfaces dinâmicas e interativas, com foco na experiência do usuário.
+### 🔧 Backend:
+- Lógica afiada com **Node.js** e **PHP**
+- APIs, integrações e regras de negócio robustas
+- Banco de dados: **MySQL** é o fiel escudeiro
 
-No backend, tenho experiência com **Node.js** e **PHP**, integrações e lógica de negócio robusta. Para persistência de dados, uso **MySQL** como principal sistema de banco de dados relacional.
-
-Além disso, também tenho familiaridade com **Python** e **C**, voltadas a projetos técnicos, scripts e resolução de problemas estruturais. Em automações e tarefas administrativas, utilizo scripts .BAT e ferramentas como robocopy.
-
-Como ambiente de desenvolvimento, uso o **Visual Studio Code**, junto a recursos de versionamento com **Git/GitHub**, além de estar me aprofundando em DevOps, com foco em integração contínua, deploy automatizado e infraestrutura como código.
+### ⚙️ Extras que brilham:
+- Scripts técnicos com **Python** e **C**
+- Automatizações em **.BAT** com **robocopy**
+- Git e GitHub no dia a dia
+- DevOps: CI/CD e infraestrutura como código em aprendizado constante
 
 ---
 
-## 🔧 Tecnologias e Ferramentas
+## 🧰 Ferramentas do Inventário do Dev
 
-[![My Skills](https://skillicons.dev/icons?i=c,visualstudio,php,mysql,javascript,html,css,)](https://skillicons.dev)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,python,c,vscode,git,bash" />
+</p>
 
 ---
 
-## 📊 Estatísticas GitHub
+## 📈 Monitoramento em Tempo Real
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JaoVitor7b&show_icons=true&theme=radical" />
@@ -36,25 +55,28 @@ Como ambiente de desenvolvimento, uso o **Visual Studio Code**, junto a recursos
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Missões Concluídas (Projetos)
 
-- 🎨 **[Landing Pages e UI Design](https://github.com/JaoVitor7b/landing-page-css)**  
-  Desenvolvimento de páginas web modernas com HTML, CSS e interações JS
-  
-- 🧠 **[Projetos Acadêmicos](https://github.com/JaoVitor7b?tab=repositories)**  
-  Repositórios de atividades, sistemas, algoritmos e práticas desenvolvidas na FATEC
+- 🎨 [**Landing Pages e UI Design**](https://github.com/JaoVitor7b/landing-page-css)  
+  Interfaces modernas e interativas com HTML, CSS e JS
 
-- 🧰 **[Scripts e Utilitários](https://github.com/JaoVitor7b/robocopy-bat)**  
-  Automação com `.bat`, comandos de rede, e exemplos com robocopy
+- 📚 [**Projetos Acadêmicos**](https://github.com/JaoVitor7b?tab=repositories)  
+  Repositórios com sistemas e algoritmos criados na FATEC
+
+- ⚙️ [**Scripts e Utilitários**](https://github.com/JaoVitor7b/robocopy-bat)  
+  Automatizações com `.bat`, robocopy e comandos de rede
 
 ---
 
-## 📬 Contato
+## 📬 Transmissão Direta
 
-- 📧 Email: **vitorrosa6969@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-vitor-rosa-028506308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- 📧 Email: [vitorrosa6969@gmail.com](mailto:vitorrosa6969@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-vitor-rosa-028506308)  
 - 🌐 [Portfólio](https://jaovitor7b.github.io/mobile/index.html)
 
 ---
 
-⭐ Obrigado por visitar meu perfil! Se gostou de algum projeto, não esqueça de deixar uma estrela ⭐
+<div align="center">
+  <img src="https://media.giphy.com/media/Yr5G0z2ZzEpeI/giphy.gif" width="120px" />
+  <h4>⭐ Obrigado por acessar este universo! Deixe uma estrela ⭐ nos projetos e siga o João para mais aventuras dev!</h4>
+</div>
