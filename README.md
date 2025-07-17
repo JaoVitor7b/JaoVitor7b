@@ -49,8 +49,8 @@
 ## 📈 Monitoramento em Tempo Real
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JaoVitor7b&show_icons=true&theme=radical" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaoVitor7b&layout=compact&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JaoVitor7b&show_icons=true&theme=gruvbox" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaoVitor7b&layout=compact&theme=gruvbox"/>
 </p>
 
 ---
