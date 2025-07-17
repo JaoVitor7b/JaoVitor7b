@@ -1,44 +1,43 @@
-<!-- README com personagem personalizado -->
+<!-- README Cyberpunk com mascote Byte -->
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150px" alt="Byte o bot dev" />
-  <h2>👋 Olá, humano! Eu sou o <strong>Byte, o Bot Dev</strong>!</h2>
-  <p>🧠 Sou o assistente digital do João Vitor e estou aqui para te mostrar o que ele sabe fazer! Vamos nessa?</p>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180px" alt="Byte o bot dev cyberpunk" />
+  <h1 style="color:#ff00ff;">👾 BYTE, O BOT DEV - MODO CYBERPUNK ATIVADO</h1>
+  <p style="font-style: italic;">⚡ Interface neural conectada. Explorando o código de <strong>João Vitor</strong>...</p>
 </div>
 
 ---
 
-# 🧑‍💻 Quem é o João Vitor?
+# 👨‍💻 Desenvolvedor: João Vitor
 
-🎓 Estudante de **Desenvolvimento de Software Multiplataforma** na **FATEC Registro**  
-💡 Apaixonado por tecnologia, inovação, projetos interativos e inteligência artificial  
-🚀 Navegando no mundo **Fullstack**, entre telas modernas e servidores inteligentes  
-🌱 Explorando **JavaScript**, **React**, **Node.js** e o universo de **DevOps**  
-🐍 Também domina **Python** e **C** para tarefas técnicas e algoritmos brabos  
-
----
-
-## 🔍 Missão: Apresentar as Skills do Dev
-
-### 🖥️ Frontend:
-- HTML, CSS e JavaScript na veia!
-- Interfaces criadas com **React**
-- Sempre com foco em **responsividade** e **acessibilidade**
-
-### 🔧 Backend:
-- Lógica afiada com **Node.js** e **PHP**
-- APIs, integrações e regras de negócio robustas
-- Banco de dados: **MySQL** é o fiel escudeiro
-
-### ⚙️ Extras que brilham:
-- Scripts técnicos com **Python** e **C**
-- Automatizações em **.BAT** com **robocopy**
-- Git e GitHub no dia a dia
-- DevOps: CI/CD e infraestrutura como código em aprendizado constante
+🧠 Estudante de **Desenvolvimento de Software Multiplataforma**  
+🌌 Apaixonado por **inteligência artificial**, **web moderna** e **infraestrutura**  
+🛰️ Explorador fullstack: de componentes frontend a APIs robustas  
+⚙️ Em constante evolução com **JavaScript**, **React**, **Node.js** e **DevOps**  
+🐍 Amante de desafios técnicos com **Python** e **C**
 
 ---
 
-## 🧰 Ferramentas do Inventário do Dev
+## 🧬 Stack Neural
+
+### 🖥️ Frontend
+- HTML5 + CSS3 + JavaScript
+- React (Componentização + SPA)
+- Acessibilidade & responsividade first
+
+### 💻 Backend
+- Node.js, PHP
+- APIs REST, Express, MySQL
+
+### ⚙️ Extras Hackeáveis
+- Scripts com Python & C
+- Automação com `.BAT`, `robocopy`
+- Versionamento com Git/GitHub
+- Práticas DevOps: CI/CD + Infra como Código (IaC)
+
+---
+
+## ⚙️ Ferramentas do Terminal
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,python,c,vscode,git,bash" />
@@ -46,7 +45,7 @@
 
 ---
 
-## 📈 Monitoramento em Tempo Real
+## 📡 Telemetria GitHub
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JaoVitor7b&show_icons=true&theme=radical" />
@@ -55,30 +54,29 @@
 
 ---
 
-## 🚀 Missões Concluídas (Projetos)
+## 🚀 Protocolos Lançados (Projetos)
 
 - 🎨 [**Landing Pages e UI Design**](https://github.com/JaoVitor7b/landing-page-css)  
-  Interfaces modernas e interativas com HTML, CSS e JS
+  Interfaces interativas com animações, HTML e JS
 
 - 📚 [**Projetos Acadêmicos**](https://github.com/JaoVitor7b?tab=repositories)  
-  Repositórios com sistemas e algoritmos criados na FATEC
+  Algoritmos, CRUDs e práticas da FATEC
 
 - ⚙️ [**Scripts e Utilitários**](https://github.com/JaoVitor7b/robocopy-bat)  
-  Automatizações com `.bat`, robocopy e comandos de rede
+  Automação hacker com `.bat`, `robocopy` e comandos de sistema
 
 ---
 
-## 📬 Transmissão Direta
+## 📬 Transmissão Criptografada
 
-
-[![Email](https://img.shields.io/badge/Email-vitorrosa6969@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:vitorrosa6969@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-João%20Vitor%20Rosa-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-rosa-028506308)  
-🌐 [Portfólio](https://jaovitor7b.github.io/mobile/index.html)
-
+[![Email](https://img.shields.io/badge/Email-vitorrosa6969@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitorrosa6969@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-João%20Vitor%20Rosa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-rosa-028506308)  
+[![Portfólio](https://img.shields.io/badge/Portfólio-Acessar-8000FF?style=for-the-badge&logo=githubpages&logoColor=white)](https://jaovitor7b.github.io/mobile/index.html)
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/Yr5G0z2ZzEpeI/giphy.gif" width="120px" />
-  <h4>⭐ Obrigado por acessar este universo! Deixe uma estrela ⭐ nos projetos e siga o João para mais aventuras dev!</h4>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200px" />
+  <br/>
+  <h3>✨ Obrigado por acessar meu universo digital. Curta, siga e que o código esteja com você! 👨‍🚀</h3>
 </div>
