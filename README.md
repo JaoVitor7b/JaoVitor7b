@@ -1,7 +1,7 @@
 <!-- README com personagem cyberpunk em pixel art -->
 
 <div align="center">
-  <img src="https://media.tenor.com/Mx7NYmMM2wIAAAAi/blastoise-pokemon-pokemon.gif" width="200px" alt="Blastoise Pixel Art" />
+  <img src="https://i.imgur.com/vbZ2x8W.gif" width="200px" alt="Byte Pixel Art" />
   <h1 style="color:#ff00ff;">⚡ BYTE, O BOT DEV – PROTOCOLO CYBERPUNK.INIT()</h1>
   <p><strong>IA Ativada:</strong> Interface neural conectada.<br>Decodificando perfil do Operador <strong>João Vitor</strong>...</p>
 </div>
@@ -23,7 +23,7 @@
 ### 🖥️ Frontend:
 - HTML, CSS e JavaScript na veia!
 - Interfaces criadas com **React**
-- Sempre com foco em **responsividade** e **acessibilidade**
+- Foco em **responsividade** e **acessibilidade**
 
 ### 🔧 Backend:
 - Lógica afiada com **Node.js** e **PHP**
@@ -34,7 +34,7 @@
 - Scripts técnicos com **Python** e **C**
 - Automatizações em **.BAT** com **robocopy**
 - Git e GitHub no dia a dia
-- DevOps: CI/CD e infraestrutura como código em aprendizado constante
+- DevOps: CI/CD e infraestrutura como código (em constante evolução)
 
 ---
 
