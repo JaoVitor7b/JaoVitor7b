@@ -1,4 +1,4 @@
-<!-- README com personagem cyberpunk em pixel art -->
+[<!-- README com personagem cyberpunk em pixel art -->
 
 <div align="center">
   <img src="https://i.imgur.com/vbZ2x8W.gif" width="200px" alt="Byte Pixel Art" />
@@ -80,3 +80,4 @@
   <img src="https://media.giphy.com/media/kHx9VZ1z3zKBa/giphy.gif" width="200px" alt="robô cyberpunk" />
   <h3>⚡ Obrigado por acessar este mainframe. Se curtir os projetos, envie um sinal estelar (⭐) e junte-se à resistência dev!</h3>
 </div>
+](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwifflegif.com%2Ftags%2F96545-gato-negro-gifs&psig=AOvVaw3iGizJ10dSLaS5SqrCf1b9&ust=1754695068259000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMi8l9Dq-Y4DFQAAAAAdAAAAABBU)
