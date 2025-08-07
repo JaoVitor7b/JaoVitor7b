@@ -1,7 +1,7 @@
-[<!-- README com personagem cyberpunk em pixel art -->
+<!-- README com personagem cyberpunk em pixel art -->
 
 <div align="center">
-  <img src="https://i.imgur.com/vbZ2x8W.gif" width="200px" alt="Byte Pixel Art" />
+  <img src="https://media.tenor.com/Mx7NYmMM2wIAAAAi/blastoise-pokemon-pokemon.gif" width="200px" alt="Blastoise Pixel Art" />
   <h1 style="color:#ff00ff;">⚡ BYTE, O BOT DEV – PROTOCOLO CYBERPUNK.INIT()</h1>
   <p><strong>IA Ativada:</strong> Interface neural conectada.<br>Decodificando perfil do Operador <strong>João Vitor</strong>...</p>
 </div>
@@ -23,7 +23,7 @@
 ### 🖥️ Frontend:
 - HTML, CSS e JavaScript na veia!
 - Interfaces criadas com **React**
-- Foco em **responsividade** e **acessibilidade**
+- Sempre com foco em **responsividade** e **acessibilidade**
 
 ### 🔧 Backend:
 - Lógica afiada com **Node.js** e **PHP**
@@ -34,7 +34,7 @@
 - Scripts técnicos com **Python** e **C**
 - Automatizações em **.BAT** com **robocopy**
 - Git e GitHub no dia a dia
-- DevOps: CI/CD e infraestrutura como código (em constante evolução)
+- DevOps: CI/CD e infraestrutura como código em aprendizado constante
 
 ---
 
@@ -80,4 +80,3 @@
   <img src="https://media.giphy.com/media/kHx9VZ1z3zKBa/giphy.gif" width="200px" alt="robô cyberpunk" />
   <h3>⚡ Obrigado por acessar este mainframe. Se curtir os projetos, envie um sinal estelar (⭐) e junte-se à resistência dev!</h3>
 </div>
-](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwifflegif.com%2Ftags%2F96545-gato-negro-gifs&psig=AOvVaw3iGizJ10dSLaS5SqrCf1b9&ust=1754695068259000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMi8l9Dq-Y4DFQAAAAAdAAAAABBU)
