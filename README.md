@@ -77,7 +77,6 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/kHx9VZ1z3zKBa/giphy.gif" width="200px" alt="robô cyberpunk" />
   <img src="https://giffiles.alphacoders.com/916/91643.gif" width="200px" alt="robô futurista" />
   <h3>⚡ Obrigado por acessar este mainframe. Se curtir os projetos, envie um sinal estelar (⭐) e junte-se à resistência dev!</h3>
 </div>
