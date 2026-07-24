@@ -6,7 +6,7 @@
 
 # ⚡ BYTE • PROTOCOLO CYBERPUNK.INIT()
 
-### 🤖 Interface Neural Conectada
+### Interface Neural Conectada
 
 **Decodificando perfil do desenvolvedor João Vitor...**
 
@@ -128,33 +128,24 @@ Automação utilizando arquivos BAT, PowerShell e comandos do Windows.
 
 ---
 
-# 📫 Contato
+## 📫 Contato
 
 <p align="center">
 
 <a href="mailto:vitorrosa6969@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
 </a>
 
 <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-rosa-028506308">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
 </a>
 
 <a href="https://jaovitor7b.github.io/">
-<img src="https://img.shields.io/badge/Portfólio-8000FF?style=for-the-badge&logo=githubpages&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=github" width="48"/>
 </a>
 
 </p>
 
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=JaoVitor7b&label=Visualizações&style=for-the-badge&color=blueviolet"/>
-
-</p>
-
----
 
 <div align="center">
 
