@@ -121,19 +121,19 @@ Automação utilizando arquivos BAT, PowerShell e comandos do Windows.
 ##  Contato
 
 <p align="center">
+  <a href="mailto:vitorrosa6969@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="55" alt="Gmail">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="mailto:vitorrosa6969@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
-</a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-rosa-028506308">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="55" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-rosa-028506308">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
-</a>
-
-<a href="https://jaovitor7b.github.io/">
-  <img src="https://skillicons.dev/icons?i=github" width="48"/>
-</a>
-
+  <a href="https://jaovitor7b.github.io/">
+    <img src="https://skillicons.dev/icons?i=github" width="55" alt="Portfólio">
+  </a>
 </p>
 
 
