@@ -41,7 +41,7 @@
 ## 🧰 Ferramentas do Inventário do Dev
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,python,c,vscode,git,bash" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,mysql,c,vscode,git,bash" />
 </p>
 
 ---
