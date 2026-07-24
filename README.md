@@ -46,11 +46,12 @@
 
 ---
 
-## 📈 Monitoramento em Tempo Real
+## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JaoVitor7b&show_icons=true&theme=gruvbox" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaoVitor7b&layout=compact&theme=gruvbox"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JaoVitor7b&show_icons=true&theme=gruvbox&hide_border=true" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaoVitor7b&layout=compact&theme=gruvbox&hide_border=true" />
 </p>
 
 ---
@@ -77,7 +78,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.tenor.com/InvGTXnS4PwAAAAj/gengar-gen-2.gif" width="200px" alt="robô futurista" />
+  <img src="https://i.pinimg.com/originals/4f/d0/c0/4fd0c049c173c9beb5a0101a84deb6f9.gif" width="200px" alt="robô futurista" />
   <h3>⚡ Obrigado por acessar este mainframe. Se curtir os projetos, envie um sinal estelar (⭐) e junte-se à resistência dev!</h3>
 </div>
 
