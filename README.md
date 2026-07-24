@@ -4,7 +4,7 @@
 
 <img src="https://i.pinimg.com/originals/6f/02/17/6f0217fef9f9941b7c5ce600b64d84d3.gif" width="200px" alt="Cyberpunk Pixel Art"/>
 
-# ⚡ BYTE • PROTOCOLO CYBERPUNK.INIT()
+#  BYTE • PROTOCOLO CYBERPUNK.INIT()
 
 ### Interface Neural Conectada
 
@@ -16,15 +16,15 @@
 
 ---
 
-# 👨‍💻 Sobre mim
+#  Sobre mim
 
-🎓 Estudante de **Desenvolvimento de Software Multiplataforma**
+ Estudante de **Desenvolvimento de Software Multiplataforma**
 
-💻 Desenvolvedor **Full Stack**
+ Desenvolvedor **Full Stack**
 
-🚀 Apaixonado por desenvolvimento web, interfaces modernas, automação e Inteligência Artificial.
+ Apaixonado por desenvolvimento web, interfaces modernas, automação e Inteligência Artificial.
 
-🌱 Atualmente estudando:
+ Atualmente estudando:
 
 - React
 - Node.js
@@ -34,9 +34,9 @@
 
 ---
 
-# 🚀 Stack Tecnológica
+#  Stack Tecnológica
 
-### 🎨 Front-end
+###  Front-end
 
 - HTML5
 - CSS3
@@ -49,7 +49,7 @@
 - Node.js
 - PHP
 
-### 🗄️ Banco de Dados
+###  Banco de Dados
 
 - MySQL
 
@@ -92,19 +92,9 @@
 
 ---
 
-# 🏆 Conquistas
+#  Projetos
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=JaoVitor7b&theme=gruvbox&no-frame=true&margin-w=15"/>
-
-</p>
-
----
-
-# 🚀 Projetos
-
-### 🎨 Landing Pages
+###  Landing Pages
 
 Interfaces modernas utilizando HTML, CSS e JavaScript.
 
@@ -112,7 +102,7 @@ Interfaces modernas utilizando HTML, CSS e JavaScript.
 
 ---
 
-### 📚 Projetos Acadêmicos
+###  Projetos Acadêmicos
 
 Projetos desenvolvidos durante a graduação.
 
@@ -120,7 +110,7 @@ Projetos desenvolvidos durante a graduação.
 
 ---
 
-### ⚙️ Scripts e Utilitários
+###  Scripts e Utilitários
 
 Automação utilizando arquivos BAT, PowerShell e comandos do Windows.
 
@@ -128,7 +118,7 @@ Automação utilizando arquivos BAT, PowerShell e comandos do Windows.
 
 ---
 
-## 📫 Contato
+##  Contato
 
 <p align="center">
 
