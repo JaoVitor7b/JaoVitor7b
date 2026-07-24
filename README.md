@@ -78,7 +78,6 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JaoVitor7b&show_icons=true&theme=gruvbox&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaoVitor7b&layout=compact&theme=gruvbox&hide_border=true"/>
 
