@@ -44,7 +44,7 @@
 - React
 - Bootstrap
 
-### ⚙️ Back-end
+###  Back-end
 
 - Node.js
 - PHP
@@ -53,7 +53,7 @@
 
 - MySQL
 
-### 🔧 Ferramentas
+###  Ferramentas
 
 - Git
 - GitHub
@@ -64,11 +64,11 @@
 
 ---
 
-# 🛠 Tecnologias
+#  Tecnologias
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,php,mysql,python,c,git,github,vscode,bash"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,php,mysql,c,git,github,vscode,bash"/>
 
 </p>
 
