@@ -63,7 +63,7 @@
 - 📚 [**Projetos Acadêmicos**](https://github.com/JaoVitor7b?tab=repositories)  
   Algoritmos, CRUDs e práticas da FATEC
 
-- ⚙️ [**Scripts e Utilitários**](https://github.com/JaoVitor7b/robocopy-bat)  
+- ⚙️ [**Scripts e Utilitários**](https://github.com/JaoVitor7b/utilitario)  
   Automação hacker com `.bat`, `robocopy` e comandos de sistema
 
 ---
