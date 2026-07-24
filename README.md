@@ -1,7 +1,7 @@
 <!-- README com personagem cyberpunk em pixel art -->
 
 <div align="center">
-  <img src="https://media.tenor.com/Mx7NYmMM2wIAAAAi/blastoise-pokemon-pokemon.gif" width="200px" alt="Blastoise Pixel Art" />
+  <img src="https://i.pinimg.com/originals/6f/02/17/6f0217fef9f9941b7c5ce600b64d84d3.gif" width="200px" alt="Blastoise Pixel Art" />
   <h1 style="color:#ff00ff;">⚡ BYTE, O BOT DEV – PROTOCOLO CYBERPUNK.INIT()</h1>
   <p><strong>IA Ativada:</strong> Interface neural conectada.<br>Decodificando perfil do Operador <strong>João Vitor</strong>...</p>
 </div>
@@ -77,7 +77,7 @@
 ---
 
 <div align="center">
-  <img src="https://giffiles.alphacoders.com/916/91643.gif" width="200px" alt="robô futurista" />
+  <img src="https://media.tenor.com/InvGTXnS4PwAAAAj/gengar-gen-2.gif" width="200px" alt="robô futurista" />
   <h3>⚡ Obrigado por acessar este mainframe. Se curtir os projetos, envie um sinal estelar (⭐) e junte-se à resistência dev!</h3>
 </div>
 
