@@ -78,13 +78,6 @@
 
 <p align="center">
 
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaoVitor7b&layout=compact&theme=gruvbox&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
 <img src="https://streak-stats.demolab.com?user=JaoVitor7b&theme=gruvbox&hide_border=true"/>
 
 </p>
